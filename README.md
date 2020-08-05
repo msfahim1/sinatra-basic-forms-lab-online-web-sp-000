@@ -1,4 +1,4 @@
-# Sinatra Basic Forms Lab
+sh# Sinatra Basic Forms Lab
 
 <img src="https://s3.amazonaws.com/learn-verified/puppies.gif" hspace="10" align="right" width="300">
 
