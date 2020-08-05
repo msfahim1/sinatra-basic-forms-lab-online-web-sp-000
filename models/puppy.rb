@@ -8,5 +8,5 @@ def initialize(name, breed, age)
   @breed = breed
   @age = age
 end
-  
+
 end
